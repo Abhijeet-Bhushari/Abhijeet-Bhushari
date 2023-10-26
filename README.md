@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abhijeet Bhushari</h1>
-<h3 align="center">A passionate web developer and competitive programmer with a love for building innovative solutions using the MERN stack (MongoDB, Express, React, Node.js) and diving into exciting Machine Learning projects. Feel free to explore and collaborate!</h3>
+<h1 align="center">Hi 👋, My name is Abhijeet Bhushari</h1>
+<h3 align="center">A Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeet-bhushari&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeet-bhushari" /> </p>
 
